@@ -30,7 +30,6 @@
     <version>1.0</version>
     <name>forecastweatherapi</name>
     <packaging>pom</packaging>
-<!-- optional tests
     <profiles>
         <profile>
             <id>test</id>
@@ -106,5 +105,4 @@
 
         </profile>
     </profiles>
--->
 </project>
