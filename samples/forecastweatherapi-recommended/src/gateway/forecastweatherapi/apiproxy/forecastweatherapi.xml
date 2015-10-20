@@ -2,6 +2,6 @@
 <APIProxy revision="1" name="forecastweatherapi">
     <ConfigurationVersion minorVersion="0" majorVersion="4"/>
     <CreatedBy>Diego</CreatedBy>
-    <Description>Recommended Forecast Weather API</Description>
+    <Description>Forecast Weather API</Description>
     <DisplayName>forecastweatherapi</DisplayName>
 </APIProxy>
